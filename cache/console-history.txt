@@ -1,0 +1,87 @@
+const Marketplace = await ethers.getContractFactory("MarketplaceUpgrade");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.getTokenFuseInfo();
+await xsumo.getTokenFuseInfo
+const xsumo = await XSumo.attach("0x107F295246682Ff57E805e00c6B344FA6D236bbC");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.getTokenFuseInfo("2");
+await xsumo.getTokenFuseInfo("1");
+await xsumo.getTokenFuseInfo("0x0b");
+await xsumo.getTokenFuseInfo('0x0b');
+await xsumo.getTokenFuseInfo(0x0b);
+await xsumo.getTokenFuseInfo(1);
+await xsumo.tokenOfOwnerByIndex('0xA6F49C590A8e1AFbEbF5C245E1768435c7718bF6',2)
+await xsumo.tokenOfOwnerByIndex('0xA6F49C590A8e1AFbEbF5C245E1768435c7718bF6',1)
+await xsumo.tokenOfOwnerByIndex(0xA6F49C590A8e1AFbEbF5C245E1768435c7718bF6,1);
+await xsumo.tokenByIndex(1)
+await xsumo.tokenByIndex(10)
+await xsumo.tokenByIndex(11)
+await xsumo.getTokenFuseInfo(11);
+const xsumo = await XSumo.attach("0x107F295246682Ff57E805e00c6B344FA6D236bbC");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.withdraw();
+const xsumo = await XSumo.attach("0x107F295246682Ff57E805e00c6B344FA6D236bbC");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.withdraw();
+const xsumo = await XSumo.attach("0x107F295246682Ff57E805e00c6B344FA6D236bbC");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.withdraw();
+const xsumo = await XSumo.attach("0x107F295246682Ff57E805e00c6B344FA6D236bbC");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.setCost("20000000000000000000");
+await xsumo.cost();
+await xsumo.gigaCost();
+await xsumo.setGigaCost("30000000000000000000");
+await xsumo.gigaCost();
+await xsumo.setGigaCost("3000000000000000000000000");
+await xsumo.setCost("2000000000000000000000000")
+await xsumo.cost();
+await xsumo.gigaCost();
+await xsumo.totalSupply();
+await xsumo.totalSupply():
+const xsumo = await XSumo.attach("0x107F295246682Ff57E805e00c6B344FA6D236bbC");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.balanceOf();
+await xsumo.tokenURI(1);
+await xsumo.cost();
+await xsumo.gigaCost();
+await xsumo.setCost("20000000000000000000");
+await xsumo.setCost(20000000000000000000);
+await xsumo.cost();
+await xsumo.totalSupply()
+await xsumo.gigaCost();
+await xsumo.setGigaCost('30000000000000000000');
+await xsumo.gigaCost();
+const xsumo = await XSumo.attach("0xE151eA8745Bd01fB5fEF853F9c82202A101230DC");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.totalSupply();
+await xsumo.totalSupply()
+await xsumo.setGigaCost("3000000000000000000000");
+await xsumo.setGigaCost(3000000000000000000000);
+const xsumo = await XSumo.attach("0xE151eA8745Bd01fB5fEF853F9c82202A101230DC");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+const { ethers, upgrades } = require('hardhat');const { ethers, upgrades } = require('hardhat');
+await xsumo.updateCreatorAdd('0x19a16AC5BF2398073266D6DB4914Cb65349Cc843');
+await xsumo.creatorAddress();
+await xsumo.updateCreatorAdd('0x31b75b206bd3693394a0893a0fb59ea6757db2bf')
+await xsumo.presaleCost()
+await xsumo.totalSupply();
+const xsumo = await XSumo.attach("0x41d23eE6A1167df4AC9B2c1333206148afcaa6A7");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
+await xsumo.totalSupply();
+await xsumo.whitelisted();
+await xsumo.presaleCost();
+await xsumo.presaleCost()
+await xsumo.presaleCost
+const xsumo = await XSumo.attach("0x41d23eE6A1167df4AC9B2c1333206148afcaa6A7");
+const XSumo = await ethers.getContractFactory("XSumo");
+const { ethers, upgrades } = require('hardhat');
